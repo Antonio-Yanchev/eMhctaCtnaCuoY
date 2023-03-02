@@ -4,5 +4,7 @@
 - 🥅 2023 Goals: Fix my sleeping schedule.
 - ⚡ Fun fact: I like to be alone somtimes.
 
+### About Me:
 
+*smile I'm currently studying computer science at 
 
