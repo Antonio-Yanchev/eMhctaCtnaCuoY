@@ -6,5 +6,5 @@
 
 ### About Me:
 
-*smile I'm currently studying computer science at 
+:smiley: I'm currently studying computer science at 
 
