@@ -5,9 +5,9 @@
 - ⚡ Fun fact: I like to be alone somtimes.
 
 ### About Me:
-	:wave: I'm currently a first year student at Oxford Brookes studying CS. I like to spend my free t
+👋 I'm currently a first year student at Oxford Brookes studying CS.
   
-  ##🧠 Skills:
+  ## Skills:
   :pushpin:Python
   :pushpin:Java
 
