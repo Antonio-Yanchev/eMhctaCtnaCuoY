@@ -7,7 +7,7 @@
 ### About Me:
 	:wave: I'm currently a first year student at Oxford Brookes studying CS. I like to spend my free t
   
-  ###🧠 Skills:
+  ##🧠 Skills:
   :pushpin:Python
   :pushpin:Java
 
