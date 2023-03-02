@@ -10,3 +10,4 @@
  ### Skills:
  :pushpin:Python, Java
 
+./vectors/microsoft.com/microsoft-onedrive.svg.
