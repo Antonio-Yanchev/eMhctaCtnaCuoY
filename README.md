@@ -1,4 +1,8 @@
-# Hello, I'm Antonio Yanchev 👋
+# Aloha, I'm Antonio Yanchev 👋
+
+<h1>
+  Welcome to my GitHub Profile! I'm a dedicated Computer Science student and an aspiring Software developer.
+</h1>
 
 - 🌱 Computer Science student at Oxford Brookes.
 - 🥅 2023 Goals: Fix my sleeping schedule.
