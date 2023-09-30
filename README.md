@@ -24,7 +24,6 @@ Contact me on:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ## About Me:
-👋 I'm currently a first year student at Oxford Brookes studying CS.
-  
+
  ### Skills:
  :pushpin:Python, Java
