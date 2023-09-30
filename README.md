@@ -8,9 +8,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eMhctaCtnaCuoY&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eMhctaCtnaCuoY&hide_progress=true)
 
-- 🌱 Computer Science student at Oxford Brookes.
 - 🥅 2023 Goals: Fix my sleeping schedule.
-- ⚡ Fun fact: I like to be alone somtimes.
+
 
 
 
