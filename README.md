@@ -1,8 +1,8 @@
-# Aloha, I'm Antonio Yanchev 👋
+<h3>Aloha, I'm Antonio Yanchev 👋</h3>
 
-<h1>
+<h4>
   Welcome to my GitHub Profile! I'm a dedicated Computer Science student and an aspiring Software developer.
-</h1>
+</h4>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eMhctaCtnaCuoY&show_icons=true&theme=radical)
