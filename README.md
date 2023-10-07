@@ -1,4 +1,4 @@
-<h3>Aloha, I'm Antonio Yanchev 👋</h3>
+<h3>Hi, I'm Antonio Yanchev 👋</h3>
 
 <h1>
   Welcome to my GitHub Profile! I'm a dedicated Computer Science student and an aspiring Software developer.
