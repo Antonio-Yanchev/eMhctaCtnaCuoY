@@ -6,7 +6,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eMhctaCtnaCuoY&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eMhctaCtnaCuoY&hide_progress=true)
 
 - 🥅 2023 Goals: Fix my sleeping schedule.
 
