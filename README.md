@@ -1,25 +1,25 @@
-<h3>Hi, I'm Antonio Yanchev 👋</h3>
+# 👋 Hi, I'm Antonio Yanchev
 
-<h1>
-  Welcome to my GitHub Profile! I'm a dedicated Computer Science student and an aspiring Software developer.
-</h1>
+## Welcome to My GitHub Profile!
 
+I'm a passionate Computer Science student and an aspiring Software Developer, constantly exploring new technologies and striving to make a difference in the world of coding.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eMhctaCtnaCuoY&show_icons=true&theme=radical)
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=eMhctaCtnaCuoY&show_icons=true&theme=radical)
 
-- 🥅 2023 Goals: Fix my sleeping schedule.
+### 🎯 2023 Goals
+- [ ] Fix my sleeping schedule.
 
+### 🛠️ Technologies & Tools
+I love working with:
+![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
+### 📫 Get in Touch!
+Feel free to reach out to me on:
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](Your-Discord-Link)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
 
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-Contact me on:
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+---
