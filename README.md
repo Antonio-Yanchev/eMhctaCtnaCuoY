@@ -20,6 +20,6 @@ I love working with:
 ### 📫 Get in Touch!
 Feel free to reach out to me on:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](Your-Discord-Link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:antonio.yanchev@gmail.com)
 
 ---
