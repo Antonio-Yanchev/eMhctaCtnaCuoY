@@ -1,8 +1,6 @@
- <p align=center>
-  👋 Hi there, I'm Antonio Yanchev!
-</p>
-
-## Welcome to My GitHub Profile! 🚀
+<h1 align=center>
+ Welcome to My GitHub Profile! 🚀
+</h1> 
 
 I'm a passionate Computer Science student and an aspiring Software Developer, constantly exploring new technologies and striving to make a difference in the world of coding.
 
