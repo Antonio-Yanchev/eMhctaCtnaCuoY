@@ -6,13 +6,13 @@ I'm a passionate Computer Science student and an aspiring Software Developer, co
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=eMhctaCtnaCuoY&show_icons=true&theme=radical)
 
-### 🎯 2024 Goals:
+## 🎯 2024 Goals:
 - [ ] Fix my sleeping schedule.
 - [ ] Contribute to open-source projects.
 - [ ] Happy to collaborate on any projects with other developers.
 - [ ] Learn a new programming language.
 
-### 🛠️ Technologies & Tools:
+## 🛠️ Technologies & Tools:
 <p>
   Mainly worked with these programming languages:
 </p>
