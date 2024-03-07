@@ -2,7 +2,7 @@
  Welcome to My GitHub Profile! 👋
 </h1> 
 
-I'm a passionate Computer Science student and an aspiring Software Developer, constantly exploring new technologies and striving to make a difference in the world of coding.
+<p align = center >I'm a passionate Computer Science student and an aspiring Software Developer, constantly exploring new technologies and striving to make a difference in the world of coding. </p>
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=eMhctaCtnaCuoY&show_icons=true&theme=radical)
 
