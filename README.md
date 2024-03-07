@@ -11,6 +11,7 @@ I'm a passionate Computer Science student and an aspiring Software Developer, co
 
 ### 🛠️ Technologies & Tools
 I love working with:
+/n
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
