@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Antonio Yanchev!
+ <p align=center>
+  👋 Hi there, I'm Antonio Yanchev!
+</p>
 
 ## Welcome to My GitHub Profile! 🚀
 
