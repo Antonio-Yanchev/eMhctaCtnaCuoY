@@ -10,13 +10,20 @@ I'm a passionate Computer Science student and an aspiring Software Developer, co
 - [ ] Fix my sleeping schedule.
 
 ### 🛠️ Technologies & Tools
-I love working with:
-/n
-![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+  <p align="center">
+    I love working with:
+  </p>
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,java,python&theme=dark" />
+  </a>
+</p>
+
+
 
 ## Contact Me 🚀
 Feel free to reach out to me on:
