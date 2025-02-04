@@ -5,7 +5,7 @@
 <p align = center >I'm a passionate Computer Science student and an aspiring Software Developer, constantly exploring new technologies and striving to make a difference in the world of coding. </p>
 
 
-## 🎯 2024 Goals:
+## 🎯 2025 Goals:
 - [ ] Fix my sleeping schedule.
 - [ ] Contribute to open-source projects.
 - [ ] Happy to collaborate on any projects with other developers.
