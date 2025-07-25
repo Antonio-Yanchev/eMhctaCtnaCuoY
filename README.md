@@ -1,5 +1,5 @@
 <h1 align=center>
- Welcome to My GitHub Profile! 👋
+ Welcome to My GitHub Profile!! 👋
 </h1> 
 
 <p align = center >I'm a passionate Computer Science student and an aspiring Software Developer, constantly exploring new technologies and striving to make a difference in the world of coding. </p>
